@@ -1,4 +1,4 @@
-# Web Scrapping and E-commerce websites product price comparing With Go language. MongoDB and Laravel
+# Web Scrapping and E-commerce websites product price comparing With Go language
 
 Technologies:
 1. Go language
